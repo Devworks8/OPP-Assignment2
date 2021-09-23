@@ -1,0 +1,7 @@
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Repository\CSharp\GitRepo\OPP-Assignment2\Assignment2\obj\Debug\Assignment2.pdb
